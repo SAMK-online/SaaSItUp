@@ -87,6 +87,9 @@ Enterprise software procurement is broken:
 ✅ **Faster sales cycles** - Pre-qualified, ready buyers  
 
 ---
+<img width="1763" height="1045" alt="Screenshot 2025-10-03 at 15 11 21" src="https://github.com/user-attachments/assets/e41a1b04-6f72-474f-aaab-4ca2031a2b72" />
+<img width="1760" height="1041" alt="Screenshot 2025-10-03 at 15 11 07" src="https://github.com/user-attachments/assets/95e6f463-0ca2-40d6-9575-f0e328d0c449" />
+<img width="1767" height="1039" alt="Screenshot 2025-10-03 at 15 11 39" src="https://github.com/user-attachments/assets/1e5463b6-6b7d-4c15-8cc2-be20fa8feff3" />
 
 ## 🎨 Product Highlights
 
@@ -131,24 +134,7 @@ Beautiful, data-rich vendor presentations:
 - **70% Time Reduction** in vendor selection process
 - **$500K+ Average Savings** per enterprise annually
 
----
 
-## 🎬 Live Demo
-
-**Try it now with sample data:**
-1. Click "Load Sample Data" to auto-fill a realistic scenario
-2. AI analyzes enterprise ML infrastructure needs
-3. Get matched with top vendors (Cohere, Coactive AI)
-4. See structured POC rubrics and recommendations
-
-**Sample Scenario Included:**
-- 201-1000 employee tech company
-- AI/ML infrastructure requirements
-- $100K-$250K budget
-- SOC2 & GDPR compliance needs
-- 1-2 month decision timeline
-
----
 
 ## 🏗️ Built With
 
